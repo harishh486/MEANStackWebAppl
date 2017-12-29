@@ -10,3 +10,6 @@ Full flow from client sending HTTP request to reaching API Interface and then No
 send the response.
 Angular at the front end will receive the response and process and display the page requested.
 
+
+V8 is the Java Script Engine which is embedded in both the NODE Web Server and even the browser has the V8 Engine to process.
+
